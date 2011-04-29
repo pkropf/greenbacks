@@ -1,0 +1,41 @@
+Greenbacks
+==========
+
+Greenbacks shows an intersection between a bill acceptor and an
+Arduino micro-controller.
+
+
+Background
+----------
+
+A bill acceptor is a small module that processes US paper currency
+($1, $5, $10, etc.) and ensures that it's valid. You'll typically find
+these in vending machines. Whenever you feed the vending machine a $1
+for a bag of chips, the bill acceptor ensures that you're giving it
+real currency and then tells the rest of the machine how much credit 
+you now have to make a purchase.
+
+
+Hardware
+--------
+
+For this project, the hardware is a Pyramid Technologies
+APEX-5400-SN1-USA bill acceptor and an Arduino Uno.
+
+
+Communications
+--------------
+
+The APEX-5000 series bill acceptors have a number of different ways of
+communicating the type of bill accepted. In this case, the bill
+acceptor is configured to send 10 50 millisecond pulses per dollar. A
+$1 bill will cause 10 pulses to be sent while a $5 bill will cause 50
+to be sent.
+
+
+References
+----------
+
+Apex 5000 - http://www.pyramidacceptors.com/apex5000.html
+Apex 5000 Docs - http://www.pyramidacceptors.com/support.html
+Arduino Uno - http://arduino.cc/en/Main/ArduinoBoardUno
