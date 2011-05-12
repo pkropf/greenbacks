@@ -23,6 +23,18 @@ For this project, the hardware is a Pyramid Technologies
 APEX-5400-SN1-USA bill acceptor and an Arduino Uno.
 
 
+Cleaning & Configuration
+------------------------
+
+Via Jon from Pyramid - 480-641-9733
+
+Use a sharpie to mark the ovals. Go over 3 lines on top, 2 on bottom,
+lines along with the lines along the side. Sometimes the shine from
+the paper / ink interferes with the sensors reading the card.
+
+Follow the cleaning instructions in the maintenance manual.
+
+
 Communications
 --------------
 

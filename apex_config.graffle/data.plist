@@ -44,18 +44,65 @@
 	<key>Creator</key>
 	<string>peter</string>
 	<key>DisplayScale</key>
-	<string>1 0/72 in = 1 0/72 in</string>
+	<string>1 0/72 in = 1.0000 in</string>
 	<key>GraphDocumentVersion</key>
 	<integer>6</integer>
 	<key>GraphicsList</key>
 	<array>
 		<dict>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>29</integer>
+			<key>Layer</key>
+			<integer>0</integer>
+			<key>Points</key>
+			<array>
+				<string>{296.5, 620.75}</string>
+				<string>{296.75, 692.75}</string>
+				<string>{296.75, 692.75}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>0</string>
+					<key>TailArrow</key>
+					<string>0</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>28</integer>
+			<key>Layer</key>
+			<integer>0</integer>
+			<key>Points</key>
+			<array>
+				<string>{189, 643.75}</string>
+				<string>{261, 643.75}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>stroke</key>
+				<dict>
+					<key>HeadArrow</key>
+					<string>0</string>
+					<key>TailArrow</key>
+					<string>0</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
 			<key>Bounds</key>
-			<string>{{317.062, 480.875}, {27.25, 8.25}}</string>
+			<string>{{309.583, 218.916}, {25.125, 6.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>14</integer>
+			<integer>26</integer>
 			<key>Layer</key>
 			<integer>0</integer>
 			<key>Shape</key>
@@ -74,15 +121,20 @@
 						<string>0</string>
 					</dict>
 				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{317.062, 466.875}, {27.25, 8.25}}</string>
+			<string>{{309.583, 464.258}, {25.125, 6.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>13</integer>
+			<integer>24</integer>
 			<key>Layer</key>
 			<integer>0</integer>
 			<key>Shape</key>
@@ -101,15 +153,20 @@
 						<string>0</string>
 					</dict>
 				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{232.688, 385.875}, {27.25, 8.25}}</string>
+			<string>{{309.583, 449.333}, {25.125, 6.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>12</integer>
+			<integer>23</integer>
 			<key>Layer</key>
 			<integer>0</integer>
 			<key>Shape</key>
@@ -128,15 +185,20 @@
 						<string>0</string>
 					</dict>
 				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{232.688, 369.875}, {27.25, 8.25}}</string>
+			<string>{{230.75, 357.337}, {25.125, 6.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>11</integer>
+			<integer>22</integer>
 			<key>Layer</key>
 			<integer>0</integer>
 			<key>Shape</key>
@@ -155,15 +217,20 @@
 						<string>0</string>
 					</dict>
 				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{317.062, 385.875}, {27.25, 8.25}}</string>
+			<string>{{230.75, 372.171}, {25.125, 6.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>10</integer>
+			<integer>21</integer>
 			<key>Layer</key>
 			<integer>0</integer>
 			<key>Shape</key>
@@ -182,15 +249,20 @@
 						<string>0</string>
 					</dict>
 				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{317.062, 369.875}, {27.25, 8.25}}</string>
+			<string>{{309.583, 372.171}, {25.125, 6.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>9</integer>
+			<integer>20</integer>
 			<key>Layer</key>
 			<integer>0</integer>
 			<key>Shape</key>
@@ -209,15 +281,20 @@
 						<string>0</string>
 					</dict>
 				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{317.062, 352.375}, {27.25, 8.25}}</string>
+			<string>{{309.583, 357.337}, {25.125, 6.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>8</integer>
+			<integer>19</integer>
 			<key>Layer</key>
 			<integer>0</integer>
 			<key>Shape</key>
@@ -236,15 +313,20 @@
 						<string>0</string>
 					</dict>
 				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{317.062, 336.625}, {27.25, 8.25}}</string>
+			<string>{{230.75, 341.503}, {25.125, 6.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>7</integer>
+			<integer>18</integer>
 			<key>Layer</key>
 			<integer>0</integer>
 			<key>Shape</key>
@@ -263,15 +345,20 @@
 						<string>0</string>
 					</dict>
 				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{317.062, 287.375}, {27.25, 8.25}}</string>
+			<string>{{309.583, 326.167}, {25.125, 6.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>6</integer>
+			<integer>17</integer>
 			<key>Layer</key>
 			<integer>0</integer>
 			<key>Shape</key>
@@ -290,15 +377,20 @@
 						<string>0</string>
 					</dict>
 				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{232.688, 320.375}, {27.25, 8.25}}</string>
+			<string>{{309.583, 296.044}, {25.125, 6.75}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>5</integer>
+			<integer>15</integer>
 			<key>Layer</key>
 			<integer>0</integer>
 			<key>Shape</key>
@@ -317,38 +409,16 @@
 						<string>0</string>
 					</dict>
 				</dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>Bounds</key>
-			<string>{{232.688, 191.25}, {27.25, 8.25}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>ID</key>
-			<integer>4</integer>
-			<key>Layer</key>
-			<integer>0</integer>
-			<key>Shape</key>
-			<string>RoundRect</string>
-			<key>Style</key>
-			<dict>
-				<key>fill</key>
+				<key>shadow</key>
 				<dict>
-					<key>Color</key>
-					<dict>
-						<key>b</key>
-						<string>0</string>
-						<key>g</key>
-						<string>0</string>
-						<key>r</key>
-						<string>0</string>
-					</dict>
+					<key>Draws</key>
+					<string>NO</string>
 				</dict>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{189, 135}, {199, 456}}</string>
+			<string>{{189, 135}, {187.2, 432}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -444,7 +514,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2011-04-29 15:29:04 -0700</string>
+	<string>2011-05-11 10:52:09 -0700</string>
 	<key>Modifier</key>
 	<string>peter</string>
 	<key>NotesVisible</key>
@@ -520,7 +590,7 @@
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{32, 0}, {971, 1008}}</string>
+		<string>{{32, 0}, {1169, 1008}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -534,15 +604,15 @@
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{39, 117}, {411, 419.5}}</string>
+		<string>{{137.5, 174}, {255, 209.75}}</string>
 		<key>Zoom</key>
-		<real>2</real>
+		<real>4</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
+				<real>4</real>
 				<real>2</real>
-				<real>8</real>
 			</array>
 		</array>
 	</dict>
