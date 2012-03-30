@@ -45,11 +45,12 @@ $1 bill will cause 10 pulses to be sent while a $5 bill will cause 50
 to be sent.
 
 
-Grubber
--------
+Adepto
+------
 
-The grubber sketch is designed as an donation machine to accept money
-and allow people to trigger a series of fire effects.
+The Adepto sketch is designed as an donation machine to accept money
+and allow people to trigger a series of fire effects. Its being used
+by the Crucible as a fundraising tool.
 
 
 References
